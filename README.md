@@ -1,4 +1,5 @@
 Прототип browser automation-агента на Python + Playwright + OpenAI-compatible LLM.
+Ссылка на видео работы - https://drive.google.com/file/d/173v_TYPKoqNokAOicyGV5et9oCk_1CDs/view?usp=sharing
 
 ## Что это по факту
 
