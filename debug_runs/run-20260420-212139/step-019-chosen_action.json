@@ -1,0 +1,12 @@
+{
+  "action": {
+    "tool": "type",
+    "args": {
+      "role": "input[type='checkbox']",
+      "name": "",
+      "text": " "
+    },
+    "reason": "Mark the checkbox to apply for the job."
+  },
+  "why": "Extract key information from the current vacancy page."
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "tool": "navigate",
+    "args": {
+      "url": "https://hh.ru/vacancy/132306826?from=anonymous_recommended&hhtmFrom=main"
+    },
+    "reason": "Navigate to the next ranked vacancy result for an AI Engineer position."
+  },
+  "why": "The current vacancy is not for an AI Engineer position. The next step should be to navigate to the next ranked vacancy result."
+}

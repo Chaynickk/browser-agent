@@ -1,0 +1,103 @@
+URL: https://hh.ru/search/vacancy?text=AI+Engineer&area=1
+Title: Работа в Москве, поиск персонала и публикация вакансий - hh.ru
+Action hints: link:перейти к поиску, link:перейти к основному контенту, button:Чаты, link:Резюме и профиль 13, link:Отклики, link:Сервисы, link:Карьера, button:Помощь, button:Поиск, button:Москва, button:Создать резюме, combobox:Поиск по вакансиям, button:Очистить, button:Расширенный поиск, button:Сохранить поиск, button:Найти, button:Ваша активность 8% 8, link:Вакансии на карте
+Page structure: {"summary": "title=\u0420\u0430\u0431\u043e\u0442\u0430 \u0432 \u041c\u043e\u0441\u043a\u0432\u0435, \u043f\u043e\u0438\u0441\u043a \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u043b\u0430 \u0438 \u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0446\u0438\u044f \u0432\u0430\u043a\u0430\u043d\u0441\u0438\u0439 - hh.ru; headings=12, buttons=20, links=20, inputs=17; aria_chars=58355", "headings": ["\u041d\u0430\u0439\u0434\u0435\u043d\u043e 732 \u0432\u0430\u043a\u0430\u043d\u0441\u0438\u0438 \u00abAI Engineer\u00bb", "\u0423\u0440\u043e\u0432\u0435\u043d\u044c \u0434\u043e\u0445\u043e\u0434\u0430", "\u0427\u0430\u0441\u0442\u043e\u0442\u0430 \u0432\u044b\u043f\u043b\u0430\u0442", "\u0420\u0435\u0433\u0438\u043e\u043d", "\u0420\u0430\u0439\u043e\u043d", "\u0421\u043e\u0441\u0435\u0434\u043d\u0438\u0435 \u0433\u043e\u0440\u043e\u0434\u0430", "\u041c\u0435\u0442\u0440\u043e", "\u0421\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0438"], "inputs": ["input | \u041f\u043e\u0438\u0441\u043a \u043f\u043e \u0432\u0430\u043a\u0430\u043d\u0441\u0438\u044f\u043c | text", "input", "checkbox | with_salary", "checkbox | area", "checkbox | district", "checkbox | neighbours", "checkbox | metro", "checkbox"], "buttons": ["\u0427\u0430\u0442\u044b", "\u0415\u0449\u0451", "\u041f\u043e\u043c\u043e\u0449\u044c", "\u041f\u043e\u0438\u0441\u043a", "\u041c\u043e\u0441\u043a\u0432\u0430", "\u0421\u043e\u0437\u0434\u0430\u0442\u044c \u0440\u0435\u0437\u044e\u043c\u0435", "\u041f\u0440\u043e\u043a\u0440\u0443\u0442\u0438\u0442\u044c \u0432\u043b\u0435\u0432\u043e", "\u0412\u0430\u043a\u0430\u043d\u0441\u0438\u0438", "\u0420\u0435\u0437\u044e\u043c\u0435", "\u041a\u043e\u043c\u043f\u0430\u043d\u0438\u0438"], "links": ["\u043f\u0435\u0440\u0435\u0439\u0442\u0438 \u043a \u043f\u043e\u0438\u0441\u043a\u0443", "\u043f\u0435\u0440\u0435\u0439\u0442\u0438 \u043a \u043e\u0441\u043d\u043e\u0432\u043d\u043e\u043c\u0443 \u043a\u043e\u043d\u0442\u0435\u043d\u0442\u0443", "\u0420\u0435\u0437\u044e\u043c\u0435 \u0438 \u043f\u0440\u043e\u0444\u0438\u043b\u044c 13", "\u041e\u0442\u043a\u043b\u0438\u043a\u0438", "\u0421\u0435\u0440\u0432\u0438\u0441\u044b", "\u041a\u0430\u0440\u044c\u0435\u0440\u0430", "\u0421\u043e\u0437\u0434\u0430\u0442\u044c \u0440\u0435\u0437\u044e\u043c\u0435", "\u0412\u0430\u043a\u0430\u043d\u0441\u0438\u0438 \u043d\u0430 \u043a\u0430\u0440\u0442\u0435", "\u0421\u0431\u0440\u043e\u0441\u0438\u0442\u044c \u0432\u0441\u0435", "\u042f\u0437\u0...[structure truncated]
+Page observation (compact):
+=== ARIA snapshot (body) ===
+- link "перейти к поиску":
+  - /url: "#a11y-search-input"
+- link "перейти к основному контенту":
+  - /url: "#a11y-main-content"
+- button "Чаты"
+- link:
+  - /url: /?hhtmFrom=vacancy_search_list
+- link "Резюме и профиль 13":
+  - /url: /applicant/resumes?hhtmFrom=vacancy_search_list&hhtmFromLabel=header
+- link "Отклики":
+  - /url: /applicant/negotiations?hhtmFrom=vacancy_search_list&hhtmFromLabel=header
+- link "Сервисы":
+  - /url: /services?hhtmFrom=vacancy_search_list&hhtmFromLabel=header
+- link "Карьера":
+  - /url: https://career.hh.ru/?hhtmFrom=vacancy_search_list&hhtmFromLabel=header
+- button "Помощь"
+- button "Поиск"
+- group
+- button "Москва"
+- button
+- link:
+  - /url: /applicant/favorite_vacancies?hhtmFrom=vacancy_search_list&hhtmFromLabel=header
+- button
+- button "Создать резюме"
+- button
+- list:
+  - tablist:
+    - tab "Вакансии" [selected]
+    - tab "Резюме"
+    - tab "Компании"
+- combobox "Поиск по вакансиям": AI Engineer
+- button "Очистить"
+- group
+- button "Расширенный поиск":
+  - img "Расширенный поиск"
+- button "Сохранить поиск"
+- button "Найти"
+- heading "Найдено 732 вакансии «AI Engineer»" [level=1]
+- text: По соответствию За всё время
+- button "Ваша активность 8% 8":
+  - text: Ваша активность 8%
+  - button
+  - progressbar
+- button
+- button
+- link "Вакансии на карте":
+  - /url: /search/vacancy/map?area=1&items_on_page=100&label=with_address&ored_clusters=true&text=AI+Engineer&hhtmFrom=vacancy_search_list
+  - button "Вакансии на карте"
+- complementary:
+  - group "Исключить слова":
+    - text: Исключить слова
+    - listitem:
+      - text: Исключить слова, через запятую
+      - textbox "Исключить слова, через запятую"
+  - group "Уровень дохода":
+    - text: Уровень дохода Сбросить от
+    - textbox "от"
+    - combobox: Период выплат
+    - text: ₽
+  - listitem:
+    - checkbox "Указан доход 165"
+    - text: Указан доход 165
+  - group "Частота выплат":
+    - text: Частота выплат
+    - combobox: Выберите из списка
+  - group "Регион":
+    - text: Регион
+    - list:
+      - listitem:
+        - checkbox "Москва 732" [checked]
+        - text: Москва 732
+      - listitem:
+        - checkbox "Московская область 8"
+        - text: Московская область 8
+    - button "Показать все"
+  - group "Район":
+    - text: Район
+    - list:
+      - listitem:
+        - checkbox "Академический 10"
+        - text: Академический 10
+      - listitem:
+        - checkbox "Басманный 19"
+        - text: Басманный 19
+      - listitem:
+        - checkbox "Беговой 9"
+        - text: Беговой 9
+      - listitem:
+        - checkbox "Бутырский 9"
+        - text: Бутырский 9
+    - button "Показать все"
+  - group "Соседние города":
+    - text: Соседние города
+    - list:
+      - listitem:
+        - checkbox "Мытищи (Московская область
+...[observation truncated]

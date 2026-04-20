@@ -1,0 +1,10 @@
+{
+  "action": {
+    "tool": "navigate",
+    "args": {
+      "url": "https://hh.ru/applicant/resumes"
+    },
+    "reason": "mandatory profile capture before personalized letters"
+  },
+  "why": "Navigate to profile/resume area to capture personalization context."
+}

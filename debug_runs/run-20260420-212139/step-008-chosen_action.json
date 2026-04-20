@@ -1,0 +1,10 @@
+{
+  "action": {
+    "tool": "navigate",
+    "args": {
+      "url": "https://hh.ru/search/vacancy?text=Ai+Engineer&area=1&suggestId=8959a6af-b3ec-4e17-9d43-83c03a491c4a&hhtmFrom=main&hhtmFromLabel=vacancy_search_line"
+    },
+    "reason": "return to canonical search-results page before candidate acquisition"
+  },
+  "why": "Navigate to search results page to build candidate queue."
+}

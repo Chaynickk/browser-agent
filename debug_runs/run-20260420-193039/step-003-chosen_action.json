@@ -1,0 +1,10 @@
+{
+  "action": {
+    "tool": "navigate",
+    "args": {
+      "url": "https://hh.ru/vacancy/132160615?query=Ai+Engineer&hhtmFrom=vacancy_search_list"
+    },
+    "reason": "open ranked vacancy result url directly"
+  },
+  "why": "Deterministic vacancy opening: navigate to ranked vacancy URL."
+}

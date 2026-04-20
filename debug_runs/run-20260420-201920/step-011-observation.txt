@@ -1,0 +1,59 @@
+URL: https://hh.ru/vacancy/132263596
+Title: Вакансия Full-stack AI Engineer в Ташкенте, работа в компании TIRKASHOV OG‘ABEK RAVSHAN O‘G‘LI
+Action hints: link:Правила использования файлов cookie, button:Понятно, button:Ещё, button:Поиск, button:Москва, button:Войти, button:Создать резюме, button:Откликнуться, button:Добавить в избранное, link:TIRKASHOV OG‘ABEK RAVSHAN O‘G‘LI, textbox:Номер телефона, button:Продолжить, link:Соглашения об оказании услуг по содействию в трудоустройстве (оферта), link:политикой конфиденциальности, link:Показать на большой карте, link:Разработчик, link:Разработчик программного обеспечения, link:Главный разработчик
+Page structure: {"summary": "title=\u0412\u0430\u043a\u0430\u043d\u0441\u0438\u044f Full-stack AI Engineer \u0432 \u0422\u0430\u0448\u043a\u0435\u043d\u0442\u0435, \u0440\u0430\u0431\u043e\u0442\u0430 \u0432 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438 TIRKASHOV OG\u2018ABEK RAVSHAN O\u2018G\u2018LI; headings=7, buttons=14, links=20, inputs=3; aria_chars=12508", "headings": ["Full-stack AI Engineer", "\u041d\u0430\u043f\u0438\u0448\u0438\u0442\u0435 \u0442\u0435\u043b\u0435\u0444\u043e\u043d, \u0447\u0442\u043e\u0431\u044b \u0440\u0430\u0431\u043e\u0442\u043e\u0434\u0430\u0442\u0435\u043b\u044c \u043c\u043e\u0433 \u0441\u0432\u044f\u0437\u0430\u0442\u044c\u0441\u044f \u0441 \u0432\u0430\u043c\u0438", "\u041a\u043b\u044e\u0447\u0435\u0432\u044b\u0435 \u043d\u0430\u0432\u044b\u043a\u0438", "\u0417\u0430\u0434\u0430\u0439\u0442\u0435 \u0432\u043e\u043f\u0440\u043e\u0441 \u0440\u0430\u0431\u043e\u0442\u043e\u0434\u0430\u0442\u0435\u043b\u044e", "\u0413\u0434\u0435 \u043f\u0440\u0435\u0434\u0441\u0442\u043e\u0438\u0442 \u0440\u0430\u0431\u043e\u0442\u0430\u0442\u044c", "\u041f\u043e\u0445\u043e\u0436\u0438\u0435 \u0432\u0430\u043a\u0430\u043d\u0441\u0438\u0438", "\u0412\u0430\u043a\u0430\u043d\u0441\u0438\u0438 \u0438\u0437 \u0434\u0440\u0443\u0433\u0438\u0445 \u043f\u043e\u0434\u0431\u043e\u0440\u043e\u043a"], "inputs": ["radio | :R6j2qip9:", "text | login", "checkbox"], "buttons": ["\u041f\u043e\u043d\u044f\u0442\u043d\u043e", "\u0418\u0449\u0443 \u0440\u0430\u0431\u043e\u0442\u0443", "\u041f\u043e\u043c\u043e\u0449\u044c", "\u0415\u0449\u0451", "\u041f\u043e\u0438\u0441\u043a", "\u041c\u043e\u0441\u043a\u0432\u0430", "\u0412\u043e\u0439\u0442\u0438", "\u0421\u043e\u0437\u0434\u0430\u0442\u044c \u0440\u0435\u0437\u044e\u043c\u0435", "\u041e\u0442\u043a\u043b\u0438\u043a\u043d\u0443\u0442\u044c\u0441\u044f", "\u041f\u0440\u043e\u0434\u043e\u043b\u0436\u0438\u0442\u044c"], "links": ["\u041f\u0440\u0430\u0432\u0438\u043b\u0430 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044f \u0444\u0430\u0439\u043b\u043e\u0432 cookie", "\u0421\u0435\u0440\u0432\u0438\u0441\u044b", "\u0412\u043e\u0439\u0442\u0438", "\u0421\u043e\u0437\u0434\u0430\u0442\u044c \u0440\u0435\u0437\u044e\u043c\u0435", "\u041e\u0442\u043a\u043b\u0438\u043a\u043d\u0443\u0442\u044c\u0441\u044f", "TIRKASHOV OG\u2018ABEK RAVSHAN O\u2018G\u2018LI", "\u0421\u043e\u0433\u043b\u0430\u0448\u0435\u043d\u0438\u044f \u043e\u0431 \u043e\u043a\u0430\u0437\u0430\u043d\u0438\...[structure truncated]
+Page observation (compact):
+=== ARIA snapshot (body) ===
+- text: Мы используем файлы cookie, чтобы обеспечивать правильную работу нашего веб-сайта и анализировать сетевой трафик.
+- link "Правила использования файлов cookie":
+  - /url: /article/cookie_policy?hhtmFrom=vacancy
+- button "Понятно"
+- link:
+  - /url: /?hhtmFrom=vacancy
+- radio "Ищу работу" [checked]
+- text: Ищу работу
+- radio "Ищу сотрудника"
+- text: Ищу сотрудника
+- button "Ещё"
+- button "Поиск"
+- group
+- button "Москва"
+- button "Войти"
+- button "Создать резюме"
+- separator
+- heading "Full-stack AI Engineer" [level=1]
+- text: от 10 000 000 до 20 000 000 so'm за месяц, на руки
+- paragraph: "Выплаты: раз в месяц"
+- paragraph: "Опыт работы: 3–6 лет"
+- text: "Полная занятость Оформление: Договор ГПХ с самозанятым, с ИП, с физлицом"
+- paragraph: "График: 6/1"
+- text: "Рабочие часы: Вечерние или ночные смены, по договорённости"
+- paragraph: "Формат работы: удалённо"
+- button "Откликнуться"
+- button "Добавить в избранное":
+  - img "Добавить в избранное"
+- link "TIRKASHOV OG‘ABEK RAVSHAN O‘G‘LI":
+  - /url: /employer/11876250?hhtmFrom=vacancy
+- link:
+  - /url: https://feedback.hh.ru/article/details/id/5951
+- heading "Напишите телефон, чтобы работодатель мог связаться с вами" [level=2]
+- text: Номер телефона
+- textbox "Номер телефона"
+- button "Продолжить"
+- text: Нажимая «Продолжить», вы подтверждаете, что полностью принимаете условия
+- link "Соглашения об оказании услуг по содействию в трудоустройстве (оферта)":
+  - /url: /account/agreement?backurl=%2Faccount%2Fsignup%3Fbackurl%3D%252Fapplicant%252Fvacancy_response%252Fafter_login%253FvacancyId%253D132263596&hhtmFrom=vacancy
+- text: и ознакомились с
+- link "политикой конфиденциальности":
+  - /url: /article/personal_data?backurl=%2Fapplicant%2Fvacancy_response%2Fafter_login%3FvacancyId%3D132263596&hhtmFrom=vacancy
+- paragraph:
+  - strong: "Обязанности:"
+- list:
+  - listitem: — LLM (Claude, GPT, Gemini) асосидаги AI-агентлар ва чат-ботларни лойиҳалаш, қуриш ва production'га чиқариш
+  - listitem: "— RAG (Retrieval-Augmented Generation) тизимларини яратиш: маълумот базаларини тайёрлаш, embedding'лар билан ишлаш, вектор базалари (Pinecone, Qdrant, Weaviate) интеграцияси"
+  - listitem: — Backend API'ларни ишлаб чиқиш (Python/FastAPI ёки Node.js) ва уларни фронтенд билан боғлаш
+  - listitem: — Фойдаланувчи интерфейсларини қуриш (React/Next.js) — чат ойналари, AI-dashboard'лар, админ панеллар
+  - listitem: "— Prompt engineering: агент хатти-ҳаракатини созлаш, жавоб сифатини оширишга қаратилган итерациялар"
+  - listitem: — AI-агентларни ташқи хизматлар билан интеграция қилиш (CRM, амоСRM, Telegram, WhatsApp, тўлов тизимлари ва ҳ.к.)
+  - listitem: — Моделлар ва агентлар ишлашини мониторинг қилиш, галлюцинацияларни камайтириш, харажатларни оптималлаштириш (token 
+...[observation truncated]

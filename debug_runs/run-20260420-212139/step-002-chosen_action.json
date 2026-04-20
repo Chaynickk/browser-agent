@@ -1,0 +1,11 @@
+{
+  "action": {
+    "tool": "click",
+    "args": {
+      "role": "button",
+      "name": "\u041d\u0430\u0439\u0442\u0438"
+    },
+    "reason": "search submit by rank (search-submit-semantics, same-form)"
+  },
+  "why": "Deterministic search submit: click ranked search button."
+}

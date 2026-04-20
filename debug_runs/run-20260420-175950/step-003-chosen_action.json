@@ -1,0 +1,11 @@
+{
+  "action": {
+    "tool": "click",
+    "args": {
+      "role": "link",
+      "name": "\u0412\u0435\u0434\u0443\u0449\u0438\u0439 \u0438\u043d\u0436\u0435\u043d\u0435\u0440 \u0432\u0445\u043e\u0434\u043d\u043e\u0433\u043e \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044f (\u0441\u0443\u0434\u043e\u0441\u0442\u0440\u043e\u0435\u043d\u0438\u0435) \u043e\u0442 170 000 \u20bd"
+    },
+    "reason": "open ranked vacancy result link"
+  },
+  "why": "Deterministic vacancy opening: click next ranked vacancy link."
+}

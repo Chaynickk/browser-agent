@@ -1,0 +1,75 @@
+URL: https://hh.ru/applicant/resumes
+Title: Мои резюме
+Action hints: button:Чаты, link:Резюме и профиль 13, link:Отклики, link:Сервисы, link:Карьера, button:Помощь, button:Поиск, button:Москва, button:Создать резюме, button:profile-avatar Даниил Солдатов +7 925 375-21-44, button:Статус поиска · Активно ищу работу, link:Перейти к вакансиям, button:hh PRO Получите работу быстрее с преимуществами подписки, button:–20% до 24.04 Готовое резюме Доверьте составление резюме профессионалам, button:–20% до 24.04 Репетиция собеседования Подготовьтесь к интервью вместе с карьерным экспертом, button:–20% до 24.04 Карьерная консультация Обсудите с экспертом, как эффективно искать работу, button:Прокрутить вправо, button:Заказать резюме
+Page structure: {"summary": "title=\u041c\u043e\u0438 \u0440\u0435\u0437\u044e\u043c\u0435; headings=3, buttons=20, links=20, inputs=0; aria_chars=19977", "headings": ["Backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a", "\u041a\u0443\u0440\u0441\u044b \u043f\u043e \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u0438 \u00abBackend-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a\u00bb", "\u0421\u043a\u0430\u043d\u0438\u0440\u0443\u0439\u0442\u0435 QR-\u043a\u043e\u0434, \u0447\u0442\u043e\u0431\u044b \u0441\u043a\u0430\u0447\u0430\u0442\u044c \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435"], "inputs": [], "buttons": ["\u0427\u0430\u0442\u044b", "\u0415\u0449\u0451", "\u041f\u043e\u043c\u043e\u0449\u044c", "\u041f\u043e\u0438\u0441\u043a", "\u041c\u043e\u0441\u043a\u0432\u0430", "\u0421\u043e\u0437\u0434\u0430\u0442\u044c \u0440\u0435\u0437\u044e\u043c\u0435", "\u0414\u0430\u043d\u0438\u0438\u043b \u0421\u043e\u043b\u0434\u0430\u0442\u043e\u0432 +7 925 375-21-44", "\u0421\u0442\u0430\u0442\u0443\u0441 \u043f\u043e\u0438\u0441\u043a\u0430 \u00b7 \u0410\u043a\u0442\u0438\u0432\u043d\u043e \u0438\u0449\u0443 \u0440\u0430\u0431\u043e\u0442\u0443", "\u041f\u0440\u043e\u043a\u0440\u0443\u0442\u0438\u0442\u044c \u0432\u043b\u0435\u0432\u043e", "hh PRO \u041f\u043e\u043b\u0443\u0447\u0438\u0442\u0435 \u0440\u0430\u0431\u043e\u0442\u0443 \u0431\u044b\u0441\u0442\u0440\u0435\u0435 \u0441 \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u0430\u043c\u0438 \u043f\u043e\u0434\u043f\u0438\u0441\u043a\u0438"], "links": ["\u0420\u0435\u0437\u044e\u043c\u0435 \u0438 \u043f\u0440\u043e\u0444\u0438\u043b\u044c 13", "\u041e\u0442\u043a\u043b\u0438\u043a\u0438", "\u0421\u0435\u0440\u0432\u0438\u0441\u044b", "\u041a\u0430\u0440\u044c\u0435\u0440\u0430", "\u0421\u043e\u0437\u0434\u0430\u0442\u044c \u0440\u0435\u0437\u044e\u043c\u0435", "\u041f\u0435\u0440\u0435\u0439\u0442\u0438 \u043a \u0432\u0430\u043a\u0430\u043d\u0441\u0438\u044f\u043c", "hh PRO \u041f\u043e\u043b\u0443\u0447\u0438\u0442\u0435 \u0440\u0430\u0431\u043e\u0442\u0443 \u0431\u044b\u0441\u0442\u0440\u0435\u0435 \u0441 \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u0430\u043c\u0438 \u043f\u043e\u0434\u043f\u0438\u0441\u043a\u0438", "\u201320% \u0434\u043e 24.04 \u0413\u043e\u0442\u043e\u0432\u043e\u0435 \u0440\u0435\u0437\u044e\u043c\u0435 \u0414\u043e\u0432\u0435\u0440\u044c\u0442\u0435 \u0441\u043e\u0441\u0442\...[structure truncated]
+Page observation (compact):
+=== ARIA snapshot (body) ===
+- button "Чаты"
+- link:
+  - /url: /?hhtmFrom=resume_list
+- link "Резюме и профиль 13":
+  - /url: /applicant/resumes?hhtmFrom=resume_list&hhtmFromLabel=header
+- link "Отклики":
+  - /url: /applicant/negotiations?hhtmFrom=resume_list&hhtmFromLabel=header
+- link "Сервисы":
+  - /url: /services?hhtmFrom=resume_list&hhtmFromLabel=header
+- link "Карьера":
+  - /url: https://career.hh.ru/?hhtmFrom=resume_list&hhtmFromLabel=header
+- button "Помощь"
+- button "Поиск"
+- group
+- button "Москва"
+- button
+- link:
+  - /url: /applicant/favorite_vacancies?hhtmFrom=resume_list&hhtmFromLabel=header
+- button
+- button "Создать резюме"
+- button
+- button "profile-avatar Даниил Солдатов +7 925 375-21-44": Даниил Солдатов +7 925 375-21-44
+- separator
+- button "Статус поиска · Активно ищу работу"
+- text: Вы откликнулись 103 раза Вероятность получить приглашение возросла. Продолжайте в том же духе
+- link "Перейти к вакансиям":
+  - /url: /search/vacancy?resume=d4426851ff0f2ea2b10039ed1f4d7772715242&from=resumelist&hhtmFrom=resume_list
+- progressbar
+- region:
+  - list:
+    - listitem:
+      - button "hh PRO Получите работу быстрее с преимуществами подписки"
+    - listitem:
+      - button "–20% до 24.04 Готовое резюме Доверьте составление резюме профессионалам"
+    - listitem:
+      - button "–20% до 24.04 Репетиция собеседования Подготовьтесь к интервью вместе с карьерным экспертом"
+    - listitem:
+      - button "–20% до 24.04 Карьерная консультация Обсудите с экспертом, как эффективно искать работу"
+  - button "Прокрутить вправо"
+- heading "Мои резюме" [level=4]
+- button "Заказать резюме"
+- button "Создать резюме"
+- button "Backend-разработчик Обновлено сегодня в 14:29":
+  - heading "Backend-разработчик" [level=3]
+  - text: Обновлено сегодня в 14:29
+- button
+- text: Статистика за неделю Показы 205
+- separator
+- link "Просмотры 7 + 7":
+  - /url: /applicant/resumeview/history?resumeHash=d4426851ff0f2ea2b10039ed1f4d7772715242&hhtmFrom=resume_list
+- separator
+- link "Приглашения 0":
+  - /url: /applicant/negotiations?state=INVITATION&hhtmFrom=resume_list
+- text: Резюме редко попадает в поиск. Поднимите его самостоятельно или подключите
+- link "hh PRO":
+  - /url: /applicant-services/hhpro?rte=true&hhtmFromLabel=resume_recommendation&hhtmFrom=resume_list
+- text: ", чтобы получить больше просмотров и приглашений"
+- button "Поднять в поиске"
+- button "Заказать рекомендацию за 799 ₽"
+- button "2560 вакансий"
+- heading "Курсы по профессии «Backend-разработчик»" [level=3]
+- text: Посмотрите на карьерной платформе от hh.ru
+- link "Посмотреть":
+  - /url: https://career.hh.ru/profession/43?section=courses&hhtmFrom=resume_list#courses-upskill
+- region:
+  - list:
+    - listitem:
+      - button "С нуля · 9 недель · Аналитика и хранение данных SQL 
+...[observation truncated]

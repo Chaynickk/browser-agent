@@ -1,0 +1,10 @@
+{
+  "action": {
+    "tool": "navigate",
+    "args": {
+      "url": "https://hh.ru/search/vacancy?text=Ai+Engineer&area=1&suggestId=42438e3c-6bf8-4725-b021-daad3dbc149b&hhtmFrom=main&hhtmFromLabel=vacancy_search_line"
+    },
+    "reason": "Restart the search for AI Engineer vacancies as the previous attempt might have not yielded relevant results."
+  },
+  "why": "Navigate to the vacancy search page with AI Engineer filter."
+}

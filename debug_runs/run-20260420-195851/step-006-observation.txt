@@ -1,0 +1,87 @@
+URL: https://hh.ru/employer/1741901?hhtmFrom=vacancy&tab=DESCRIPTION
+Title: Работа в компании Ак Барс Цифровые Технологии в Москве — 2 вакансии на hh.ru
+Action hints: link:Резюме и профиль 13, button:Ещё, button:Поиск, button:Москва, button:Создать резюме, button:47 отзывов, button:Подписаться, button:Хочу тут работать, link:Вперёд к вакансиям!, button:Переключите на предыдущий слайд, button:Переключите на следующий слайд, link:Хочу в команду!, link:Инженер по тестированию (QA manual), link:ООО Ак Барс Цифровые Технологии, link:Бизнес/системный аналитик продуктовой команды, link:Руководитель отдела разработки, link:ИТ-лидер / Технический менеджер проектов (Software Engineer Manager), link:Инженер-разработчик (.Net)
+Page structure: {"summary": "title=\u0420\u0430\u0431\u043e\u0442\u0430 \u0432\u00a0\u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438 \u0410\u043a \u0411\u0430\u0440\u0441 \u0426\u0438\u0444\u0440\u043e\u0432\u044b\u0435 \u0422\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438 \u0432 \u041c\u043e\u0441\u043a\u0432\u0435\u00a0\u2014 2 \u0432\u0430\u043a\u0430\u043d\u0441\u0438\u0438 \u043d\u0430\u00a0hh.ru; headings=12, buttons=20, links=20, inputs=0; aria_chars=13343", "headings": ["\u041e\u041e\u041e \u0410\u043a \u0411\u0430\u0440\u0441 \u0426\u0438\u0444\u0440\u043e\u0432\u044b\u0435 \u0422\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438", "\u0421\u043e\u0437\u0434\u0430\u0451\u043c \u0440\u0435\u043f\u0435\u0440\u0442\u0443\u0430\u0440 \u0446\u0438\u0444\u0440\u043e\u0432\u044b\u0445 \u0440\u0435\u0448\u0435\u043d\u0438\u0439 \u0434\u043b\u044f \u0444\u0438\u043d\u0442\u0435\u0445\u0430", "\u0424\u0438\u043b\u043e\u0441\u043e\u0444\u0438\u044f AB Digital \u2014 \u0441\u043e\u0437\u0432\u0443\u0447\u0438\u0435 \u043f\u0440\u043e\u0434\u0443\u043a\u0442\u043e\u0432\u044b\u0445 \u0438 \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u043e\u043e\u0440\u0438\u0435\u043d\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0445 \u043f\u0440\u0430\u043a\u0442\u0438\u043a", "\u041a\u043e\u043c\u0430\u043d\u0434\u0430 \u043d\u0435\u0441\u043a\u0443\u0447\u043d\u043e\u0433\u043e \u0444\u0438\u043d\u0442\u0435\u0445\u0430", "\u041c\u044b \u0441\u0442\u0440\u0435\u043c\u0438\u043c\u0441\u044f \u043f\u043e\u043c\u043e\u0447\u044c \u0431\u0430\u043d\u043a\u0430\u043c \u0443\u0441\u043f\u0435\u0448\u043d\u043e \u043f\u0435\u0440\u0435\u0439\u0442\u0438 \u0432 \u0446\u0438\u0444\u0440\u043e\u0432\u0443\u044e \u044d\u043f\u043e\u0445\u0443, \u0441\u043e\u0445\u0440\u0430\u043d\u044f\u044f \u0438\u0445 \u043e\u0441\u043e\u0431\u0435\u043d\u043d\u043e\u0441\u0442\u0438 \u0438 \u0446\u0435\u043d\u043d\u043e\u0441\u0442\u0438", "\u041c\u044b \u0442\u0430\u043a\u0436\u0435 \u0441\u043e\u0437\u0434\u0430\u0451\u043c \u043d\u043e\u0432\u044b\u0435 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u0438 \u0434\u043b\u044f \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u044f \u0431\u0438\u0437\u043d\u0435\u0441\u0430", "\u041f\u0440\u043e\u0435\u043a\u0442\u044b \u0438 \u0441\u0442\u0435\u043a \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0439", "\u0413\u0435\u043e\u0433\u0440\u0430\u0444\u0438\u044f \u043e\u0444\u0438\u0441\u043e\u0432"], "inputs"...[structure truncated]
+Page observation (compact):
+=== ARIA snapshot (body) ===
+- link:
+  - /url: /?hhtmFrom=employer
+- link "Резюме и профиль 13":
+  - /url: /applicant/resumes?hhtmFrom=employer&hhtmFromLabel=header
+- button "Ещё"
+- button "Поиск"
+- group
+- button "Москва"
+- button
+- link:
+  - /url: /applicant/favorite_vacancies?hhtmFrom=employer&hhtmFromLabel=header
+- button
+- button "Создать резюме"
+- button
+- img "Ак Барс Цифровые Технологии"
+- heading "ООО Ак Барс Цифровые Технологии" [level=1]:
+  - text: ООО Ак Барс Цифровые Технологии
+  - link:
+    - /url: https://feedback.hh.ru/article/details/id/5951
+- text: 4,3
+- button "47 отзывов"
+- button "Подписаться"
+- button "Хочу тут работать"
+- list:
+  - tablist:
+    - tab "О компании" [selected]
+    - tab "Вакансии 7"
+- link:
+  - /url: https://akbars.digital/
+- heading "Создаём репертуар цифровых решений для финтеха" [level=2]
+- paragraph: Мы разрабатываем цифровые экосистемы и внедряем новые технологичные продукты для удобства клиентов банка
+- link "Вперёд к вакансиям!":
+  - /url: "#"
+- list:
+  - listitem: с 2016 года создаём и развиваем цифровые продукты
+  - listitem: входим в реестр аккредитованных ИТ-компаний
+  - listitem: 600+ человек в команде
+  - listitem: более 3,5 млн. человек пользуется нашими продуктами и сервисами
+- text: Приближаем классический банкинг к пользователю через инструменты управления данными и гибкие фреймворки разработки.
+- heading "Философия AB Digital — созвучие продуктовых и человекоориентированных практик" [level=2]
+- heading "Команда нескучного финтеха" [level=3]
+- heading "Мы стремимся помочь банкам успешно перейти в цифровую эпоху, сохраняя их особенности и ценности" [level=3]
+- heading "Мы также создаём новые возможности для развития бизнеса" [level=3]
+- button "Переключите на предыдущий слайд"
+- button "Переключите на следующий слайд"
+- heading "Проекты и стек технологий" [level=2]
+- paragraph: Мы используем микросервисный подход
+- list:
+  - listitem: .NET Core
+  - listitem: Rabbit MQ
+  - listitem: PostgreSQL
+  - listitem: MSSQL
+  - listitem: Redis
+  - listitem: Hangfire
+  - listitem: Elastic
+  - listitem: Kafka
+  - listitem: Kotlin
+  - listitem: Swift
+  - listitem: React+
+- list
+- list:
+  - listitem: Redux
+  - listitem: Effector
+  - listitem: Kubernetes
+  - listitem: GitLab CI
+  - listitem: ArgoCD
+  - listitem: Helm Chart
+  - listitem: GitOps
+  - listitem: ASOC
+  - listitem: SAST
+  - listitem: DAST
+  - listitem: SCA
+  - listitem: OAST
+- list
+- text: Применяем гибкие подходы к разработке — SCRUM и SAFe, которые позволяют нам быстро внедрять изменения и выводить продукт на рынок. В среднем, мы релизим новые фичи каждые две недели.
+- list:
+  - listitem:
+    - paragraph: "Развиваем 40 продуктовых направлений: это финтех-продукты и сервисы для банков"
+  - listitem:
+    - paragraph: Занимаемся цифр
+...[observation truncated]

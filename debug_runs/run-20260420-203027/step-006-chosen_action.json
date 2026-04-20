@@ -1,0 +1,10 @@
+{
+  "action": {
+    "tool": "navigate",
+    "args": {
+      "url": "https://hh.ru/vacancy/132272373"
+    },
+    "reason": "open candidate from stored search queue id=132272373"
+  },
+  "why": "Open next vacancy strictly from stored search-results queue."
+}

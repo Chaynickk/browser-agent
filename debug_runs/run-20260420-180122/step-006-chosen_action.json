@@ -1,0 +1,12 @@
+{
+  "action": {
+    "tool": "type",
+    "args": {
+      "role": "textbox",
+      "name": "\u0418\u0441\u043a\u043b\u044e\u0447\u0438\u0442\u044c \u0441\u043b\u043e\u0432\u0430, \u0447\u0435\u0440\u0435\u0437 \u0437\u0430\u043f\u044f\u0442\u0443\u044e",
+      "text": "Ai Engineer"
+    },
+    "reason": "stagnation recovery: use visible search-like input"
+  },
+  "why": "Scroll down to load more vacancies and find suitable ones for the AI Engineer position. | search-first override: type into textbox:\u0418\u0441\u043a\u043b\u044e\u0447\u0438\u0442\u044c \u0441\u043b\u043e\u0432\u0430, \u0447\u0435\u0440\u0435\u0437 \u0437\u0430\u043f\u044f\u0442\u0443\u044e"
+}

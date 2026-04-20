@@ -1,0 +1,12 @@
+{
+  "action": {
+    "tool": "type",
+    "args": {
+      "role": "combobox",
+      "name": "\u041f\u043e\u0438\u0441\u043a \u043f\u043e \u0432\u0430\u043a\u0430\u043d\u0441\u0438\u044f\u043c",
+      "text": "Ai Engineer"
+    },
+    "reason": "search bootstrap: primary input by rank (search-capable-role, search-semantics)"
+  },
+  "why": "Deterministic search bootstrap: type normalized query into primary input."
+}

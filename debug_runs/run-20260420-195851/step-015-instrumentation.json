@@ -1,0 +1,156 @@
+{
+  "url": "https://hh.ru/vacancy/132194712?hhtmFromLabel=suitable_employer_vacancies&hhtmFrom=vacancy",
+  "title": "\u0412\u0430\u043a\u0430\u043d\u0441\u0438\u044f \u0418\u0422-\u043b\u0438\u0434\u0435\u0440 / \u0422\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0435\u043d\u0435\u0434\u0436\u0435\u0440 \u043f\u0440\u043e\u0435\u043a\u0442\u043e\u0432 (Software Engineer Manager) \u0432 \u041c\u043e\u0441\u043a\u0432\u0435, \u0440\u0430\u0431\u043e\u0442\u0430 \u0432 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438 \u0410\u043a \u0411\u0430\u0440\u0441 \u0426\u0438\u0444\u0440\u043e\u0432\u044b\u0435 \u0422\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438",
+  "task_intent": {
+    "search_query": "Ai Engineer",
+    "target_domain": "hh.ru",
+    "is_search_like": true
+  },
+  "top_inputs": [
+    {
+      "role": "combobox",
+      "name": "on",
+      "score": 3.3,
+      "reasons": [
+        "search-capable-role"
+      ]
+    },
+    {
+      "role": "combobox",
+      "name": "on",
+      "score": 3.3,
+      "reasons": [
+        "search-capable-role"
+      ]
+    },
+    {
+      "role": "combobox",
+      "name": "on",
+      "score": 3.3,
+      "reasons": [
+        "search-capable-role"
+      ]
+    },
+    {
+      "role": "combobox",
+      "name": "on",
+      "score": 3.3,
+      "reasons": [
+        "search-capable-role"
+      ]
+    }
+  ],
+  "top_buttons": [
+    {
+      "role": "button",
+      "name": "\u041f\u043e\u0438\u0441\u043a",
+      "score": 5.0,
+      "reasons": [
+        "search-submit-semantics"
+      ]
+    },
+    {
+      "role": "button",
+      "name": "\u0421\u043a\u043e\u043b\u044c\u043a\u043e \u0437\u0430\u0439\u043c\u0451\u0442 \u0434\u043e\u0440\u043e\u0433\u0430",
+      "score": 2.0,
+      "reasons": [
+        "near-input"
+      ]
+    },
+    {
+      "role": "button",
+      "name": "\u0415\u0449\u0451",
+      "score": 0.0,
+      "reasons": []
+    },
+    {
+      "role": "button",
+      "name": "\u041c\u043e\u0441\u043a\u0432\u0430",
+      "score": 0.0,
+      "reasons": []
+    }
+  ],
+  "top_links": [
+    {
+      "role": "link",
+      "name": "\u0418\u043d\u0436\u0435\u043d\u0435\u0440-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a (Python, Vibe Coding)",
+      "score": 7.0,
+      "reasons": [
+        "vacancy-link-url",
+        "role-like-title"
+      ]
+    },
+    {
+      "role": "link",
+      "name": "\u0412\u0435\u0434\u0443\u0449\u0438\u0439 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a/ TeamLead (Python)",
+      "score": 7.0,
+      "reasons": [
+        "vacancy-link-url",
+        "role-like-title"
+      ]
+    },
+    {
+      "role": "link",
+      "name": "Lead AI Engineer (\u043a\u043e\u043c\u0430\u043d\u0434\u0430 \u041a\u043e\u043d\u0441\u0442\u0440\u0443\u043a\u0442\u043e\u0440 \u041a\u043e\u043c\u043f\u043b\u0435\u043a\u0441\u043d\u044b\u0445 \u0420\u0435\u0448\u0435\u043d\u0438\u0439)",
+      "score": 7.0,
+      "reasons": [
+        "vacancy-link-url",
+        "role-like-title"
+      ]
+    },
+    {
+      "role": "link",
+      "name": "\u0422\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0435\u043d\u0435\u0434\u0436\u0435\u0440 \u0432 \u043a\u043e\u043c\u0430\u043d\u0434\u0443 Managed Databases",
+      "score": 7.0,
+      "reasons": [
+        "vacancy-link-url",
+        "role-like-title"
+      ]
+    }
+  ],
+  "top_profile_links": [
+    {
+      "role": "link",
+      "name": "\u0420\u0435\u0437\u044e\u043c\u0435 \u0438 \u043f\u0440\u043e\u0444\u0438\u043b\u044c 13",
+      "score": 8.0,
+      "reasons": [
+        "profile-semantics",
+        "profile-url"
+      ]
+    },
+    {
+      "role": "link",
+      "name": "\u0421\u043e\u0437\u0434\u0430\u0442\u044c \u0440\u0435\u0437\u044e\u043c\u0435",
+      "score": 8.0,
+      "reasons": [
+        "profile-semantics",
+        "profile-url"
+      ]
+    },
+    {
+      "role": "link",
+      "name": "\u0413\u043e\u0442\u043e\u0432\u043e\u0435 \u0440\u0435\u0437\u044e\u043c\u0435",
+      "score": 8.0,
+      "reasons": [
+        "profile-semantics",
+        "profile-url"
+      ]
+    },
+    {
+      "role": "link",
+      "name": "\u042d\u043a\u0441\u043f\u0435\u0440\u0442\u043d\u0430\u044f \u0440\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u0430\u0446\u0438\u044f",
+      "score": 3.0,
+      "reasons": [
+        "profile-url"
+      ]
+    }
+  ],
+  "flow_state": {
+    "query_typed": true,
+    "search_submitted": true,
+    "profile_checked": false,
+    "vacancies_collected": 2,
+    "vacancies_rejected": 11,
+    "profile_summary_present": false
+  }
+}

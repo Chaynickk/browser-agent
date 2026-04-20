@@ -1,0 +1,124 @@
+{
+  "url": "https://hh.ru/applicant/resumes",
+  "title": "\u041c\u043e\u0438 \u0440\u0435\u0437\u044e\u043c\u0435",
+  "task_intent": {
+    "search_query": "Ai Engineer",
+    "target_domain": "hh.ru",
+    "is_search_like": true
+  },
+  "top_inputs": [],
+  "top_buttons": [
+    {
+      "role": "button",
+      "name": "\u041f\u043e\u0438\u0441\u043a",
+      "score": 5.0,
+      "reasons": [
+        "search-submit-semantics"
+      ]
+    },
+    {
+      "role": "button",
+      "name": "\u0421\u0442\u0430\u0442\u0443\u0441 \u043f\u043e\u0438\u0441\u043a\u0430 \u00b7 \u0410\u043a\u0442\u0438\u0432\u043d\u043e \u0438\u0449\u0443 \u0440\u0430\u0431\u043e\u0442\u0443",
+      "score": 5.0,
+      "reasons": [
+        "search-submit-semantics"
+      ]
+    },
+    {
+      "role": "button",
+      "name": "\u041f\u043e\u0434\u043d\u044f\u0442\u044c \u0432 \u043f\u043e\u0438\u0441\u043a\u0435",
+      "score": 5.0,
+      "reasons": [
+        "search-submit-semantics"
+      ]
+    },
+    {
+      "role": "button",
+      "name": "\u0427\u0430\u0442\u044b",
+      "score": 0.0,
+      "reasons": []
+    }
+  ],
+  "top_links": [
+    {
+      "role": "link",
+      "name": "\u041f\u043e\u0438\u0441\u043a \u043f\u043e \u0432\u0430\u043a\u0430\u043d\u0441\u0438\u044f\u043c \u0432 \u041c\u043e\u0441\u043a\u0432\u0435",
+      "score": 5.0,
+      "reasons": [
+        "vacancy-link-url"
+      ]
+    },
+    {
+      "role": "link",
+      "name": "\u041f\u0435\u0440\u0435\u0439\u0442\u0438 \u043a \u0432\u0430\u043a\u0430\u043d\u0441\u0438\u044f\u043c",
+      "score": 4.0,
+      "reasons": [
+        "vacancy-link-url"
+      ]
+    },
+    {
+      "role": "link",
+      "name": "2559 \u0432\u0430\u043a\u0430\u043d\u0441\u0438\u0439",
+      "score": 4.0,
+      "reasons": [
+        "vacancy-link-url"
+      ]
+    },
+    {
+      "role": "link",
+      "name": "hh PRO \u041f\u043e\u043b\u0443\u0447\u0438\u0442\u0435 \u0440\u0430\u0431\u043e\u0442\u0443 \u0431\u044b\u0441\u0442\u0440\u0435\u0435 \u0441 \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u0430\u043c\u0438 \u043f\u043e\u0434\u043f\u0438\u0441\u043a\u0438",
+      "score": 1.0,
+      "reasons": []
+    }
+  ],
+  "top_profile_links": [
+    {
+      "role": "link",
+      "name": "\u0413\u043e\u0442\u043e\u0432\u043e\u0435 \u0440\u0435\u0437\u044e\u043c\u0435 \u0414\u043e\u0432\u0435\u0440\u044c\u0442\u0435 \u0441\u043e\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u0440\u0435\u0437\u044e\u043c\u0435 \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u0430\u043c",
+      "score": 10.0,
+      "reasons": [
+        "profile-semantics",
+        "profile-url",
+        "existing-profile-priority"
+      ]
+    },
+    {
+      "role": "link",
+      "name": "\u0413\u043e\u0442\u043e\u0432\u043e\u0435 \u0440\u0435\u0437\u044e\u043c\u0435",
+      "score": 10.0,
+      "reasons": [
+        "profile-semantics",
+        "profile-url",
+        "existing-profile-priority"
+      ]
+    },
+    {
+      "role": "link",
+      "name": "\u0420\u0435\u0437\u044e\u043c\u0435 \u0438 \u043f\u0440\u043e\u0444\u0438\u043b\u044c 13",
+      "score": 8.0,
+      "reasons": [
+        "profile-semantics",
+        "profile-url"
+      ]
+    },
+    {
+      "role": "link",
+      "name": "\u0417\u0430\u043a\u0430\u0437\u0430\u0442\u044c \u0440\u0435\u0437\u044e\u043c\u0435",
+      "score": 8.0,
+      "reasons": [
+        "profile-semantics",
+        "profile-url"
+      ]
+    }
+  ],
+  "flow_state": {
+    "stage": "profile_capture",
+    "query_typed": true,
+    "search_submitted": true,
+    "profile_checked": false,
+    "vacancies_collected": 0,
+    "vacancies_rejected": 0,
+    "candidate_queue": 20,
+    "profile_summary_present": false
+  }
+}

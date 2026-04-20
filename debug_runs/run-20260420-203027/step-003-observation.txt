@@ -1,0 +1,75 @@
+URL: https://hh.ru/
+Title: Работа в Москве, поиск персонала и публикация вакансий - hh.ru
+Action hints: link:cookies, button:Понятно, link:Сервисы, button:Помощь, button:Москва, button:Войти, button:Создать резюме, textbox:Номер телефона, button:Продолжить, link:соглашение, link:политику конфиденциальности, combobox:Профессия, должность или компания, button:Расширенный поиск, button:Найти, link:Я ищу сотрудника, button:Вакансии дня до 270 000 ₽ 14 вакансий, button:Компании дня 1551 вакансия, link:Работа из дома 42659 вакансий
+Page structure: {"summary": "title=\u0420\u0430\u0431\u043e\u0442\u0430 \u0432 \u041c\u043e\u0441\u043a\u0432\u0435, \u043f\u043e\u0438\u0441\u043a \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u043b\u0430 \u0438 \u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0446\u0438\u044f \u0432\u0430\u043a\u0430\u043d\u0441\u0438\u0439 - hh.ru; headings=12, buttons=20, links=20, inputs=4; aria_chars=33015", "headings": ["\u041d\u0430\u043f\u0438\u0448\u0438\u0442\u0435 \u0442\u0435\u043b\u0435\u0444\u043e\u043d, \u0447\u0442\u043e\u0431\u044b \u0440\u0430\u0431\u043e\u0442\u043e\u0434\u0430\u0442\u0435\u043b\u0438 \u043c\u043e\u0433\u043b\u0438 \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0438\u0442\u044c \u0432\u0430\u043c \u0440\u0430\u0431\u043e\u0442\u0443", "\u041f\u043e\u0438\u0441\u043a \u0440\u0430\u0431\u043e\u0442\u044b \u0432 \u041c\u043e\u0441\u043a\u0432\u0435", "\u041f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u043e\u0435", "\u0412\u0430\u043a\u0430\u043d\u0441\u0438\u0438 \u0434\u043d\u044f", "\u0420\u0430\u0431\u043e\u0442\u0430 \u0432 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f\u0445", "\u0420\u0430\u0431\u043e\u0442\u0430 \u043f\u043e \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u044f\u043c \u0432 \u041c\u043e\u0441\u043a\u0432\u0435", "\u041d\u043e\u0432\u043e\u0441\u0442\u0438", "\u0421\u0442\u0430\u0442\u044c\u0438"], "inputs": ["radio | :R6j2qip9:", "text | login", "input | \u041f\u043e\u0438\u0441\u043a \u043f\u043e \u0432\u0430\u043a\u0430\u043d\u0441\u0438\u044f\u043c | text", "text | captchaText"], "buttons": ["\u041f\u043e\u043d\u044f\u0442\u043d\u043e", "\u0418\u0449\u0443 \u0440\u0430\u0431\u043e\u0442\u0443", "\u041f\u043e\u043c\u043e\u0449\u044c", "\u0415\u0449\u0451", "\u041c\u043e\u0441\u043a\u0432\u0430", "\u0412\u043e\u0439\u0442\u0438", "\u0421\u043e\u0437\u0434\u0430\u0442\u044c \u0440\u0435\u0437\u044e\u043c\u0435", "\u041f\u0440\u043e\u0434\u043e\u043b\u0436\u0438\u0442\u044c", "\u041d\u0430\u0439\u0442\u0438", "\u0412\u0430\u043a\u0430\u043d\u0441\u0438\u0438 \u0434\u043d\u044f \u0434\u043e 270 000 \u20bd 14 \u0432\u0430\u043a\u0430\u043d\u0441\u0438\u0439"], "links": ["cookies", "\u0421\u0435\u0440\u0432\u0438\u0441\u044b", "\u0412\u043e\u0439\u0442\u0438", "\u0421\u043e\u0437\u0434\u0430\u0442\u044c \u0440\u0435\u0437\u044e\u043c\u0435", "\u0441\u043e\u0433\u043b\u0430\u0448\u0435\u043d\u0438\u0435", "\u043f\u043e\u043b\u0438\u0442\u0438\u043a\u0443 \u043a\u043e\u043d\u0444\u0438\u0434\u0435\u043d\u0446\u0438\u0430\u...[structure truncated]
+Page observation (compact):
+=== ARIA snapshot (body) ===
+- text: Чтобы сайт был удобнее, используем
+- link "cookies":
+  - /url: /article/cookie_policy?hhtmFrom=main
+- button "Понятно"
+- link:
+  - /url: /?hhtmFrom=main
+- radio "Ищу работу" [checked]
+- text: Ищу работу
+- radio "Ищу сотрудника"
+- text: Ищу сотрудника
+- link "Сервисы":
+  - /url: /services?hhtmFrom=main&hhtmFromLabel=header
+- button "Помощь"
+- button "Москва"
+- button "Войти"
+- button "Создать резюме"
+- heading "Напишите телефон, чтобы работодатели могли предложить вам работу" [level=3]
+- text: Номер телефона
+- textbox "Номер телефона"
+- button "Продолжить"
+- text: Продолжая, вы принимаете
+- link "соглашение":
+  - /url: /account/agreement?backurl=%2Faccount%2Fsignup%3Fbackurl%3D%252F&hhtmFrom=main
+- text: и
+- link "политику конфиденциальности":
+  - /url: /article/personal_data?backurl=%2F&hhtmFrom=main
+- text: 86 019 213 резюме 884 384 вакансии 2 350 285 компаний
+- link:
+  - /url: /mobile?from=main_head&hhtmFromLabel=main_head&hhtmFrom=main
+- link:
+  - /url: /mobile?from=main_head&hhtmFromLabel=main_head&hhtmFrom=main
+- link:
+  - /url: /mobile?from=main_head&hhtmFromLabel=main_head&hhtmFrom=main
+- heading "Поиск работы в Москве" [level=3]
+- text: Профессия, должность или компания
+- combobox "Профессия, должность или компания"
+- group
+- button "Расширенный поиск":
+  - img "Расширенный поиск"
+- button "Найти"
+- link "Я ищу сотрудника":
+  - /url: /employer?hhtmFrom=main
+- heading "Популярное" [level=3]
+- button "Вакансии дня до 270 000 ₽ 14 вакансий"
+- button "Компании дня 1551 вакансия"
+- link "Работа из дома 42659 вакансий":
+  - /url: /search/vacancy?schedule=remote&L_profession_id=0&area=113&hhtmFrom=main
+  - button "Работа из дома 42659 вакансий"
+- link "Комплектовщик на склад Брендовой одежды до 330 000 ₽":
+  - /url: https://hh.ru/vacancy/132290680?from=anonymous_recommended&hhtmFrom=main
+- link "Москва-Работа, Москва":
+  - /url: /employer/9020719?hhtmFrom=main
+- link "Комплектовщик | Упаковщик на склад Брендовой одежды до 365 000 ₽":
+  - /url: https://hh.ru/vacancy/132288281?from=anonymous_recommended&hhtmFrom=main
+- link "#БЕЗОПЫТА, Москва":
+  - /url: /employer/11556531?hhtmFrom=main
+- link "Комплектовщик на склад Золотое Яблоко до 306 000 ₽":
+  - /url: https://hh.ru/vacancy/132286797?from=anonymous_recommended&hhtmFrom=main
+- link "#БЕЗОПЫТА, Москва":
+  - /url: /employer/11556531?hhtmFrom=main
+- link "Artist relations manager з/п не указана":
+  - /url: https://hh.ru/vacancy/131824320?from=anonymous_recommended&hhtmFrom=main
+- link "Звук, Москва":
+  - /url: /employer/1829949?hhtmFrom=main
+- link "Инженер по тестированию з/п не указана":
+  - /url: https://hh.ru/vacancy/132308686?from=anonymous_recommended&hhtmFrom=main
+- link "Национальный туроператор Алеан, Москва":
+  - /url: /employer/5942
+...[observation truncated]

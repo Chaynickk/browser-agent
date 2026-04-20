@@ -1,0 +1,10 @@
+{
+  "action": {
+    "tool": "navigate",
+    "args": {
+      "url": "https://hh.ru/search/vacancy?text=AI+Engineer&area=1"
+    },
+    "reason": "return to canonical search-results page before candidate acquisition"
+  },
+  "why": "Navigate to search results page to build candidate queue."
+}

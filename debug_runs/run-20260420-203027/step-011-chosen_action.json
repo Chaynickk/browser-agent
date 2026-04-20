@@ -1,0 +1,10 @@
+{
+  "action": {
+    "tool": "navigate",
+    "args": {
+      "url": "https://hh.ru/search/vacancy?text=Ai+Engineer"
+    },
+    "reason": "guard: repeated vacancy id 132222465 rejected; rebuild queue"
+  },
+  "why": "Guard override: repeated vacancy id rejected; return to search results."
+}

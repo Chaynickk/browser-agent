@@ -1,0 +1,64 @@
+URL: https://hh.ru/resume/d4426851ff0f2ea2b10039ed1f4d7772715242
+Title: Backend-разработчик
+Action hints: button:Чаты, link:Резюме и профиль 13, link:Отклики, link:Сервисы, link:Карьера, button:Помощь, button:Поиск, button:Москва, button:Создать резюме, link:Мои резюме, link:+7 925 375-21-44, link:https://github.com/Chaynickk/BankingSystem, link:https://github.com/Chaynickk/ChatBot, button:Развернуть, button:Указать уровни, button:Редактировать, button:Перейти к тестам, button:Посмотреть
+Page structure: {"summary": "title=Backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a; headings=3, buttons=20, links=20, inputs=1; aria_chars=10771", "headings": ["Backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a", "\u0417\u0430\u0432\u0435\u0440\u0448\u0451\u043d\u043d\u043e\u0441\u0442\u044c \u0440\u0435\u0437\u044e\u043c\u0435", "\u0421\u043a\u0430\u043d\u0438\u0440\u0443\u0439\u0442\u0435 QR-\u043a\u043e\u0434, \u0447\u0442\u043e\u0431\u044b \u0441\u043a\u0430\u0447\u0430\u0442\u044c \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435"], "inputs": ["input | phone.formatted"], "buttons": ["\u0427\u0430\u0442\u044b", "\u0415\u0449\u0451", "\u041f\u043e\u043c\u043e\u0449\u044c", "\u041f\u043e\u0438\u0441\u043a", "\u041c\u043e\u0441\u043a\u0432\u0430", "\u0421\u043e\u0437\u0434\u0430\u0442\u044c \u0440\u0435\u0437\u044e\u043c\u0435", "\u0420\u0430\u0437\u0432\u0435\u0440\u043d\u0443\u0442\u044c", "\u0423\u043a\u0430\u0437\u0430\u0442\u044c \u0443\u0440\u043e\u0432\u043d\u0438", "\u0420\u0435\u0434\u0430\u043a\u0442\u0438\u0440\u043e\u0432\u0430\u0442\u044c", "\u041f\u0435\u0440\u0435\u0439\u0442\u0438 \u043a \u0442\u0435\u0441\u0442\u0430\u043c"], "links": ["\u0420\u0435\u0437\u044e\u043c\u0435 \u0438 \u043f\u0440\u043e\u0444\u0438\u043b\u044c 13", "\u041e\u0442\u043a\u043b\u0438\u043a\u0438", "\u0421\u0435\u0440\u0432\u0438\u0441\u044b", "\u041a\u0430\u0440\u044c\u0435\u0440\u0430", "\u0421\u043e\u0437\u0434\u0430\u0442\u044c \u0440\u0435\u0437\u044e\u043c\u0435", "\u041c\u043e\u0438 \u0440\u0435\u0437\u044e\u043c\u0435", "+7 925 375-21-44", "https://github.com/Chaynickk/BankingSystem", "https://github.com/Chaynickk/ChatBot", "\u041f\u0435\u0440\u0435\u0439\u0442\u0438 \u043a \u0442\u0435\u0441\u0442\u0430\u043c"], "visible_text": ["Backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a \u0424\u0435\u0432\u0440\u0430\u043b\u044c 2023 \u2014 \u0441\u0435\u0439\u0447\u0430\u0441 (3 \u0433\u043e\u0434\u0430 \u0438 3 \u043c\u0435\u0441\u044f\u0446\u0430) - \u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0430\u043b REST API \u043d\u0430 FastAPI \u0441 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u0435\u043c \u0430\u0441\u0438\u043d\u0445\u0440\u043e\u043d\u043d\u043e\u0433\u043e \u043f\u043e\u0434\u0445\u043e\u0434\u0430 (async/await) - \u0420\u0435\u0430\u043b\u0438\u0437\u043e\u0432\u0430\u043b \u0430\u0432\u0442\u043e\u0440\u0438\u0437\u0430\...[structure truncated]
+Page observation (compact):
+=== ARIA snapshot (body) ===
+- button "Чаты"
+- link:
+  - /url: /?hhtmFrom=resume
+- link "Резюме и профиль 13":
+  - /url: /applicant/resumes?hhtmFrom=resume&hhtmFromLabel=header
+- link "Отклики":
+  - /url: /applicant/negotiations?hhtmFrom=resume&hhtmFromLabel=header
+- link "Сервисы":
+  - /url: /services?hhtmFrom=resume&hhtmFromLabel=header
+- link "Карьера":
+  - /url: https://career.hh.ru/?hhtmFrom=resume&hhtmFromLabel=header
+- button "Помощь"
+- button "Поиск"
+- group
+- button "Москва"
+- button
+- link:
+  - /url: /applicant/favorite_vacancies?hhtmFrom=resume&hhtmFromLabel=header
+- button
+- button "Создать резюме"
+- button
+- link "Мои резюме":
+  - /url: /applicant/resumes
+- text: / Backend-разработчик
+- heading "Backend-разработчик" [level=1]
+- text: "80 000 ₽ на руки Тип занятости: Постоянная работа Формат работы: Удалённо, Гибрид Желательное время в пути до работы: Не имеет значения Командировки: Не могу Редактировать"
+- heading "Контакты" [level=4]
+- text: Мобильный телефон — предпочитаемый способ связи
+- link "+7 925 375-21-44":
+  - /url: tel:+79253752144
+- button
+- 'heading "Опыт работы: 3 года 3 месяца" [level=4]'
+- text: Добавить Pet Project / Самостоятельная разработка 3 года и 3 месяца
+- list:
+  - listitem:
+    - img
+    - text: Backend-разработчик Февраль 2023 — сейчас (3 года и 3 месяца)
+    - button
+    - text: "- Разработал REST API на FastAPI с использованием асинхронного подхода (async/await) - Реализовал авторизацию и аутентификацию пользователей (JWT) - Работал с PostgreSQL через SQLAlchemy, проектировал структуру базы данных - Реализовал CRUD операции, фильтрацию и пагинацию - Настроил валидацию данных с использованием Pydantic - Организовал архитектуру проекта (разделение на routers, services, models) - Реализовал обработку ошибок и логирование - Создавал Telegram-ботов с интеграцией backend API - Разрабатываю сервис с ML-моделью для предсказания исходов (интеграция модели в API) GitHub: - Backend-сервис банковской системы (REST API на FastAPI):"
+    - link "https://github.com/Chaynickk/BankingSystem":
+      - /url: https://github.com/Chaynickk/BankingSystem
+- separator
+- text: Хакатон - агрегатор нейросетей 1 месяц
+- list:
+  - listitem:
+    - img
+    - text: Backend-разработчик Май 2025 — Май 2025 (1 месяц)
+    - button
+    - text: "- Разработал backend для чат-системы (аналог ChatGPT) - Реализовал обработку пользовательских запросов и генерацию ответов - Настроил API для взаимодействия с нейросетевыми сервисами - Участвовал в проектировании архитектуры сервиса GitHub:"
+    - link "https://github.com/Chaynickk/ChatBot":
+      - /url: https://github.com/Chaynickk/ChatBot
+- separator
+- text: Хакатон - Astra Linux 2 месяца
+- list:
+  - listitem:
+    - img
+    - text: Backend-разработчик Февраль 2025 — Март 2025 (2 ме
+...[observation truncated]

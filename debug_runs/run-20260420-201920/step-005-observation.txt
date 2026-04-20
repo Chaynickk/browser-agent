@@ -1,0 +1,87 @@
+URL: https://hh.ru/applicant/resumes
+Title: HeadHunter
+Action hints: link:Правила использования файлов cookie, button:Понятно, button:Ещё, button:Поиск, button:Москва, button:Войти, button:Создать резюме, button:Дальше, button:Войти с паролем, button:Войти с помощью + 3, link:политику конфиденциальности, link:правила сервиса, button:Я ищу сотрудников, link:Размещение вакансий, link:Поиск по резюме, link:О компании, link:Помощь, link:Наши вакансии
+Page structure: {"summary": "title=HeadHunter; headings=3, buttons=16, links=20, inputs=3; aria_chars=7213", "headings": ["\u041f\u043e\u0438\u0441\u043a \u0440\u0430\u0431\u043e\u0442\u044b", "\u041f\u043e\u0438\u0441\u043a \u0441\u043e\u0442\u0440\u0443\u0434\u043d\u0438\u043a\u043e\u0432", "\u0421\u043a\u0430\u043d\u0438\u0440\u0443\u0439\u0442\u0435 QR-\u043a\u043e\u0434, \u0447\u0442\u043e\u0431\u044b \u0441\u043a\u0430\u0447\u0430\u0442\u044c \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435"], "inputs": ["radio | :R6j2qip9:", "radio | :Rlljaip9:", "input"], "buttons": ["\u041f\u043e\u043d\u044f\u0442\u043d\u043e", "\u0418\u0449\u0443 \u0440\u0430\u0431\u043e\u0442\u0443", "\u041f\u043e\u043c\u043e\u0449\u044c", "\u0415\u0449\u0451", "\u041f\u043e\u0438\u0441\u043a", "\u041c\u043e\u0441\u043a\u0432\u0430", "\u0412\u043e\u0439\u0442\u0438", "\u0421\u043e\u0437\u0434\u0430\u0442\u044c \u0440\u0435\u0437\u044e\u043c\u0435", "\u0414\u0430\u043b\u044c\u0448\u0435", "\u0412\u043e\u0439\u0442\u0438 \u0441 \u043f\u0430\u0440\u043e\u043b\u0435\u043c"], "links": ["\u041f\u0440\u0430\u0432\u0438\u043b\u0430 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044f \u0444\u0430\u0439\u043b\u043e\u0432 cookie", "\u0421\u0435\u0440\u0432\u0438\u0441\u044b", "\u0412\u043e\u0439\u0442\u0438", "\u0421\u043e\u0437\u0434\u0430\u0442\u044c \u0440\u0435\u0437\u044e\u043c\u0435", "\u043f\u043e\u043b\u0438\u0442\u0438\u043a\u0443 \u043a\u043e\u043d\u0444\u0438\u0434\u0435\u043d\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0438", "\u043f\u0440\u0430\u0432\u0438\u043b\u0430 \u0441\u0435\u0440\u0432\u0438\u0441\u0430", "\u0420\u0430\u0437\u043c\u0435\u0449\u0435\u043d\u0438\u0435 \u0432\u0430\u043a\u0430\u043d\u0441\u0438\u0439", "\u041f\u043e\u0438\u0441\u043a \u043f\u043e \u0440\u0435\u0437\u044e\u043c\u0435", "\u041e \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438", "\u041f\u043e\u043c\u043e\u0449\u044c"], "visible_text": ["\u0420\u0430\u0437\u043c\u0435\u0449\u0435\u043d\u0438\u0435 \u0432\u0430\u043a\u0430\u043d\u0441\u0438\u0439", "\u041f\u043e\u0438\u0441\u043a \u043f\u043e \u0440\u0435\u0437\u044e\u043c\u0435", "\u041e \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438", "\u041f\u043e\u043c\u043e\u0449\u044c", "\u041d\u0430\u0448\u0438 \u0432\u0430\u043a\u0430\u043d\u0441\u0438\u0438", "\u0420\u0435\u043a\u043b\u0430\u043c\u0430 \u043d\u0430 \u0441\u0430\u0439\u0442\u0435", "\u0422\u0440\u0435\u0431\u043e\u0432\u0430\u0...[structure truncated]
+Page observation (compact):
+=== ARIA snapshot (body) ===
+- text: Мы используем файлы cookie, чтобы обеспечивать правильную работу нашего веб-сайта и анализировать сетевой трафик.
+- link "Правила использования файлов cookie":
+  - /url: /article/cookie_policy?hhtmFrom=resume_list
+- button "Понятно"
+- link:
+  - /url: /?hhtmFrom=resume_list
+- radio "Ищу работу" [checked]
+- text: Ищу работу
+- radio "Ищу сотрудника"
+- text: Ищу сотрудника
+- button "Ещё"
+- button "Поиск"
+- group
+- button "Москва"
+- button "Войти"
+- button "Создать резюме"
+- separator
+- banner:
+  - link:
+    - /url: /?hhtmFrom=resume_list
+- heading "Поиск работы" [level=2]
+- radio "Телефон" [checked]
+- text: Телефон
+- radio "Почта"
+- text: Почта 🇷🇺
+- textbox: "+7"
+- textbox
+- alert
+- button "Дальше":
+  - text: Дальше
+  - status:
+    - img "loading"
+- button "Войти с паролем"
+- button "Войти с помощью + 3"
+- text: Продолжая, вы принимаете
+- link "политику конфиденциальности":
+  - /url: /article/personal_data?backurl=%2Fapplicant%2Fresumes
+- text: и
+- link "правила сервиса":
+  - /url: /account/agreement?backurl=%2Faccount%2Fsignup%3Fbackurl%3D%252Fapplicant%252Fresumes
+- heading "Поиск сотрудников" [level=2]
+- text: Размещение вакансий и доступ к базе резюме
+- button "Я ищу сотрудников"
+- heading "Сканируйте QR-код, чтобы скачать приложение" [level=2]
+- text: И чаты с работодателями всегда будут под рукой
+- img
+- text: HeadHunter
+- list:
+  - listitem:
+    - link "Размещение вакансий":
+      - /url: /employer?from=footer_new&hhtmFromLabel=footer_new&hhtmFrom=resume_list
+  - listitem:
+    - link "Поиск по резюме":
+      - /url: /search/resume?from=footer_new&hhtmFromLabel=footer_new&hhtmFrom=resume_list
+  - listitem:
+    - link "О компании":
+      - /url: /article/28?from=footer_new&hhtmFromLabel=footer_new&hhtmFrom=resume_list
+  - listitem:
+    - link "Помощь":
+      - /url: https://feedback.hh.ru/ticket/add?utm_source=hh.ru&utm_medium=referral&utm_campaign=from_footer_new
+  - listitem:
+    - link "Наши вакансии":
+      - /url: /employer/1455?from=footer_new&hhtmFromLabel=footer_new&hhtmFrom=resume_list
+  - listitem:
+    - link "Реклама на сайте":
+      - /url: /article/promoproducts?from=footer_new&hhtmFromLabel=footer_new&hhtmFrom=resume_list
+  - listitem:
+    - link "Требования к ПО":
+      - /url: /article/176?from=footer_new&hhtmFromLabel=footer_new&hhtmFrom=resume_list
+  - listitem:
+    - link "Безопасный HeadHunter":
+      - /url: /safety?from=footer_new&hhtmFromLabel=footer_new&hhtmFrom=resume_list
+  - listitem:
+    - link "HeadHunter API":
+      - /url: https://dev.hh.ru/?utm_source=hh.ru&utm_medium=referral&utm_campaign=from_footer_new
+  - listitem:
+    - link "Партнерам":
+      - /url: /partners?from=footer_new&hhtmFromLabel=footer_new&hhtmFrom=resume_list
+  - listitem:
+    - link "Инвесто
+...[observation truncated]

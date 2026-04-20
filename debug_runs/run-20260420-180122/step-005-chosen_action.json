@@ -1,0 +1,10 @@
+{
+  "action": {
+    "tool": "navigate",
+    "args": {
+      "url": "https://hh.ru/vacancies/inzhener-sistem-monitoringa"
+    },
+    "reason": "open ranked vacancy result url directly"
+  },
+  "why": "Deterministic vacancy opening: navigate to ranked vacancy URL."
+}

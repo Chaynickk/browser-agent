@@ -1,0 +1,10 @@
+{
+  "action": {
+    "tool": "navigate",
+    "args": {
+      "url": "https://hh.ru/vacancy/132222465"
+    },
+    "reason": "Open the next vacancy strictly from the stored search-results queue."
+  },
+  "why": "The user has already viewed one vacancy. The next logical step is to proceed with the second candidate from the stored search queue."
+}

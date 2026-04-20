@@ -1,0 +1,10 @@
+{
+  "action": {
+    "tool": "navigate",
+    "args": {
+      "url": "https://hh.ru/search/vacancy?text=AI+Engineer&area=1"
+    },
+    "reason": "Restart the search process by navigating to the vacancy search page with a more specific job title."
+  },
+  "why": "Navigate to the vacancy search page with AI Engineer filter."
+}

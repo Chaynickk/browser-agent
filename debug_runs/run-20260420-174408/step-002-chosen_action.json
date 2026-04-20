@@ -1,0 +1,11 @@
+{
+  "action": {
+    "tool": "click",
+    "args": {
+      "role": "button",
+      "name": "\u041d\u0430\u0439\u0442\u0438"
+    },
+    "reason": "button ranking guard: avoid unrelated global action button"
+  },
+  "why": "Open profile/resume link for personalization context."
+}

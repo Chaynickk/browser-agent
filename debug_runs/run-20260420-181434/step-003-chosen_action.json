@@ -1,0 +1,10 @@
+{
+  "action": {
+    "tool": "navigate",
+    "args": {
+      "url": "https://hh.ru/vacancy/132306826?from=anonymous_recommended&hhtmFrom=main"
+    },
+    "reason": "open ranked vacancy result url directly"
+  },
+  "why": "Deterministic vacancy opening: navigate to ranked vacancy URL."
+}

@@ -1,0 +1,57 @@
+URL: https://hh.ru/vacancy/132272373
+Title: Вакансия Product manager в Ташкенте, работа в компании JABBIYEV SARDOR YERKABAY O‘G‘LI
+Action hints: link:Правила использования файлов cookie, button:Понятно, button:Ещё, button:Поиск, button:Москва, button:Войти, button:Создать резюме, button:Откликнуться, button:Добавить в избранное, link:JABBIYEV SARDOR YERKABAY O‘G‘LI, textbox:Номер телефона, button:Продолжить, link:Соглашения об оказании услуг по содействию в трудоустройстве (оферта), link:политикой конфиденциальности, link:Показать на большой карте, link:Продуктовый аналитик, link:Product manager, link:Production manager
+Page structure: {"summary": "title=\u0412\u0430\u043a\u0430\u043d\u0441\u0438\u044f Product manager \u0432 \u0422\u0430\u0448\u043a\u0435\u043d\u0442\u0435, \u0440\u0430\u0431\u043e\u0442\u0430 \u0432 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438 JABBIYEV SARDOR YERKABAY O\u2018G\u2018LI; headings=7, buttons=20, links=20, inputs=3; aria_chars=14313", "headings": ["Product manager", "\u041d\u0430\u043f\u0438\u0448\u0438\u0442\u0435 \u0442\u0435\u043b\u0435\u0444\u043e\u043d, \u0447\u0442\u043e\u0431\u044b \u0440\u0430\u0431\u043e\u0442\u043e\u0434\u0430\u0442\u0435\u043b\u044c \u043c\u043e\u0433 \u0441\u0432\u044f\u0437\u0430\u0442\u044c\u0441\u044f \u0441 \u0432\u0430\u043c\u0438", "\u041a\u043b\u044e\u0447\u0435\u0432\u044b\u0435 \u043d\u0430\u0432\u044b\u043a\u0438", "\u0417\u0430\u0434\u0430\u0439\u0442\u0435 \u0432\u043e\u043f\u0440\u043e\u0441 \u0440\u0430\u0431\u043e\u0442\u043e\u0434\u0430\u0442\u0435\u043b\u044e", "\u0413\u0434\u0435 \u043f\u0440\u0435\u0434\u0441\u0442\u043e\u0438\u0442 \u0440\u0430\u0431\u043e\u0442\u0430\u0442\u044c", "\u041f\u043e\u0445\u043e\u0436\u0438\u0435 \u0432\u0430\u043a\u0430\u043d\u0441\u0438\u0438", "\u0412\u0430\u043a\u0430\u043d\u0441\u0438\u0438 \u0438\u0437 \u0434\u0440\u0443\u0433\u0438\u0445 \u043f\u043e\u0434\u0431\u043e\u0440\u043e\u043a"], "inputs": ["radio | :R6j2qip9:", "text | login", "checkbox"], "buttons": ["\u041f\u043e\u043d\u044f\u0442\u043d\u043e", "\u0418\u0449\u0443 \u0440\u0430\u0431\u043e\u0442\u0443", "\u041f\u043e\u043c\u043e\u0449\u044c", "\u0415\u0449\u0451", "\u041f\u043e\u0438\u0441\u043a", "\u041c\u043e\u0441\u043a\u0432\u0430", "\u0412\u043e\u0439\u0442\u0438", "\u0421\u043e\u0437\u0434\u0430\u0442\u044c \u0440\u0435\u0437\u044e\u043c\u0435", "\u041e\u0442\u043a\u043b\u0438\u043a\u043d\u0443\u0442\u044c\u0441\u044f", "\u041f\u0440\u043e\u0434\u043e\u043b\u0436\u0438\u0442\u044c"], "links": ["\u041f\u0440\u0430\u0432\u0438\u043b\u0430 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044f \u0444\u0430\u0439\u043b\u043e\u0432 cookie", "\u0421\u0435\u0440\u0432\u0438\u0441\u044b", "\u0412\u043e\u0439\u0442\u0438", "\u0421\u043e\u0437\u0434\u0430\u0442\u044c \u0440\u0435\u0437\u044e\u043c\u0435", "\u041e\u0442\u043a\u043b\u0438\u043a\u043d\u0443\u0442\u044c\u0441\u044f", "JABBIYEV SARDOR YERKABAY O\u2018G\u2018LI", "\u0421\u043e\u0433\u043b\u0430\u0448\u0435\u043d\u0438\u044f \u043e\u0431 \u043e\u043a\u0430\u0437\u0430\u043d\u0438\u0438 \u0443\u0441\u043b\u...[structure truncated]
+Page observation (compact):
+=== ARIA snapshot (body) ===
+- text: Мы используем файлы cookie, чтобы обеспечивать правильную работу нашего веб-сайта и анализировать сетевой трафик.
+- link "Правила использования файлов cookie":
+  - /url: /article/cookie_policy?hhtmFrom=vacancy
+- button "Понятно"
+- link:
+  - /url: /?hhtmFrom=vacancy
+- radio "Ищу работу" [checked]
+- text: Ищу работу
+- radio "Ищу сотрудника"
+- text: Ищу сотрудника
+- button "Ещё"
+- button "Поиск"
+- group
+- button "Москва"
+- button "Войти"
+- button "Создать резюме"
+- separator
+- heading "Product manager" [level=1]
+- text: Уровень дохода не указан
+- paragraph: "Опыт работы: 3–6 лет"
+- text: "Полная занятость Оформление: Трудовой договор"
+- paragraph: "График: свободный"
+- text: "Рабочие часы: по договорённости"
+- paragraph: "Формат работы: удалённо или гибрид"
+- button "Откликнуться"
+- button "Добавить в избранное":
+  - img "Добавить в избранное"
+- link "JABBIYEV SARDOR YERKABAY O‘G‘LI":
+  - /url: /employer/12689689?hhtmFrom=vacancy
+- link:
+  - /url: https://feedback.hh.ru/article/details/id/5951
+- heading "Напишите телефон, чтобы работодатель мог связаться с вами" [level=2]
+- text: Номер телефона
+- textbox "Номер телефона"
+- button "Продолжить"
+- text: Нажимая «Продолжить», вы подтверждаете, что полностью принимаете условия
+- link "Соглашения об оказании услуг по содействию в трудоустройстве (оферта)":
+  - /url: /account/agreement?backurl=%2Faccount%2Fsignup%3Fbackurl%3D%252Fapplicant%252Fvacancy_response%252Fafter_login%253FvacancyId%253D132272373&hhtmFrom=vacancy
+- text: и ознакомились с
+- link "политикой конфиденциальности":
+  - /url: /article/personal_data?backurl=%2Fapplicant%2Fvacancy_response%2Fafter_login%3FvacancyId%3D132272373&hhtmFrom=vacancy
+- paragraph: Product Manager — Trade Finance & B2B Commerce Full-time · Fully Remote · Fintech
+- paragraph: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+- paragraph: "ABOUT NSBH Website: nsbh.ai | nsbh.co"
+- paragraph: NSBH is a fintech company in Saudi Arabia building next-generation trade finance infrastructure for B2B commerce. Our mission is to replace informal and opaque supplier credit systems with structured, data-driven working capital solutions that empower small businesses to grow, protect suppliers from credit risk, and strengthen entire supply chains.
+- paragraph: We are designing a new credit framework where risk is priced dynamically based on real transaction behavior — not static balance sheets — enabling sustainable growth for merchants, platforms, and capital partners alike.
+- paragraph: We are currently hiring for 15+ roles across tech, product, and risk.
+- paragraph: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+- paragraph: WHAT WE EXPECT FROM EVERYONE WHO JOINS
+- paragraph: "• Be AI-powered: AI should be at the core of h
+...[observation truncated]
